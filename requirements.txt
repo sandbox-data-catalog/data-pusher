@@ -1,0 +1,8 @@
+argparse
+ckanserviceprovider==0.0.7
+html5lib==1.0.1
+messytables==0.15.2
+python-slugify==1.2.1
+certifi
+requests[security]==2.13.0
+psycopg2==2.7.3.2

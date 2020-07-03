@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  datapusher:
+    build: .
+    container_name: datapusher
+    ports:
+      - "8800:8800"
